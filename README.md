@@ -1,4 +1,4 @@
-Hi there 👋, Welcome to my github.
+Hi there 👋, Welcome to my github.<br>
 🌱 I’m currently learning JavaScript and a just starting with some Java.<br>
 💥 I’m aspiring software developer. <br>
 😄 I’m working everyday to learn something new.<br>
