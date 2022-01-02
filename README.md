@@ -2,7 +2,7 @@ Hi there 👋, Welcome to my github.<br>
 🌱 I’m currently learning JavaScript and a just starting with some Java.<br>
 💥 I’m aspiring software developer. <br>
 😄 I’m working everyday to learn something new.<br>
-🏈 Fun fact: I am a <b>DIEHARD</b> Philadelphia Eagles Fan. {<b>#FlyEaglesFly‼</b>}
+🏈 #FlyEaglesFly‼
 <!--
 **ezotic/ezotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
